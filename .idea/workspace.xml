@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="481f0bed-c41b-41a6-b765-c6a0f6dc7317" name="Default Changelist" comment="switch on ubuntu">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ftb8vM3kPJluaRoyj8yBkYhr3A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/views/armani" />
+      <recent name="$PROJECT_DIR$/utils" />
+      <recent name="$PROJECT_DIR$/views/tazh" />
+      <recent name="$PROJECT_DIR$/controllers" />
+      <recent name="$PROJECT_DIR$/views/tazhWeb" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="481f0bed-c41b-41a6-b765-c6a0f6dc7317" name="Default Changelist" comment="" />
+      <created>1597040180182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597040180182</updated>
+      <workItem from="1597040181252" duration="7936000" />
+      <workItem from="1597061693891" duration="776000" />
+      <workItem from="1597063017903" duration="777000" />
+      <workItem from="1597066945046" duration="31000" />
+      <workItem from="1597069078365" duration="3521000" />
+      <workItem from="1597137113079" duration="199000" />
+      <workItem from="1597482993590" duration="2519000" />
+      <workItem from="1597491658466" duration="1272000" />
+      <workItem from="1597605351647" duration="757000" />
+      <workItem from="1597656235725" duration="1284000" />
+      <workItem from="1597659372138" duration="384000" />
+      <workItem from="1597664676951" duration="9411000" />
+      <workItem from="1597722030833" duration="783000" />
+      <workItem from="1597772623312" duration="299000" />
+      <workItem from="1597782471592" duration="2449000" />
+      <workItem from="1597898954299" duration="1402000" />
+      <workItem from="1598085263050" duration="630000" />
+      <workItem from="1598085904116" duration="523000" />
+      <workItem from="1598086440776" duration="412000" />
+      <workItem from="1598086864851" duration="276000" />
+      <workItem from="1598087152605" duration="1520000" />
+      <workItem from="1598089077163" duration="321000" />
+      <workItem from="1598089409598" duration="2713000" />
+      <workItem from="1598168746077" duration="1259000" />
+      <workItem from="1598181319036" duration="2000" />
+      <workItem from="1598181831010" duration="2000" />
+      <workItem from="1598185978024" duration="2531000" />
+      <workItem from="1598208244330" duration="2000" />
+      <workItem from="1598248573594" duration="9000" />
+      <workItem from="1598252143755" duration="3000" />
+      <workItem from="1598258823900" duration="4000" />
+      <workItem from="1598258840919" duration="2586000" />
+      <workItem from="1598267482230" duration="1799000" />
+      <workItem from="1598284410357" duration="768000" />
+      <workItem from="1598294853197" duration="3000" />
+      <workItem from="1598339427244" duration="278000" />
+      <workItem from="1598339944465" duration="617000" />
+      <workItem from="1598358057183" duration="12000" />
+      <workItem from="1598422605742" duration="4347000" />
+      <workItem from="1598428917796" duration="287000" />
+      <workItem from="1598429216094" duration="244000" />
+      <workItem from="1598429472295" duration="1780000" />
+      <workItem from="1598431798443" duration="1770000" />
+      <workItem from="1598436700997" duration="488000" />
+      <workItem from="1598437203432" duration="1672000" />
+      <workItem from="1598441523882" duration="714000" />
+      <workItem from="1598448943704" duration="4000" />
+      <workItem from="1598465004816" duration="909000" />
+      <workItem from="1598519988497" duration="5000" />
+      <workItem from="1598688481547" duration="3000" />
+      <workItem from="1598688890796" duration="1000" />
+      <workItem from="1598688916533" duration="3000" />
+      <workItem from="1598692531481" duration="134000" />
+      <workItem from="1598692709665" duration="2017000" />
+      <workItem from="1598866006644" duration="2000" />
+      <workItem from="1598961243953" duration="4000" />
+      <workItem from="1598979335248" duration="272000" />
+      <workItem from="1599022990976" duration="2678000" />
+      <workItem from="1599032525354" duration="616000" />
+      <workItem from="1599124473706" duration="420000" />
+      <workItem from="1599124949974" duration="630000" />
+      <workItem from="1599378637302" duration="2491000" />
+      <workItem from="1599382714860" duration="616000" />
+      <workItem from="1599913974440" duration="28000" />
+      <workItem from="1599914027672" duration="23000" />
+      <workItem from="1599977967119" duration="99000" />
+      <workItem from="1599983379731" duration="326000" />
+      <workItem from="1600092554413" duration="520000" />
+      <workItem from="1600167700011" duration="940000" />
+      <workItem from="1600177533228" duration="3502000" />
+      <workItem from="1600238266373" duration="1842000" />
+      <workItem from="1600247178052" duration="44000" />
+      <workItem from="1600260102627" duration="655000" />
+      <workItem from="1600262010300" duration="468000" />
+      <workItem from="1600262489735" duration="22000" />
+      <workItem from="1600262541747" duration="3382000" />
+      <workItem from="1600326398737" duration="7000" />
+      <workItem from="1600494121906" duration="702000" />
+      <workItem from="1600498390892" duration="704000" />
+      <workItem from="1600511797836" duration="74000" />
+      <workItem from="1600517698616" duration="3548000" />
+      <workItem from="1600522678454" duration="732000" />
+      <workItem from="1600523423567" duration="126000" />
+      <workItem from="1600588472954" duration="1208000" />
+      <workItem from="1600589799706" duration="12700000" />
+      <workItem from="1600694393461" duration="1067000" />
+      <workItem from="1600757673852" duration="3004000" />
+      <workItem from="1600842557401" duration="4774000" />
+      <workItem from="1600852369535" duration="1276000" />
+      <workItem from="1600959781840" duration="5000" />
+      <workItem from="1600959829636" duration="1523000" />
+      <workItem from="1601208898014" duration="2820000" />
+      <workItem from="1601215125350" duration="597000" />
+      <workItem from="1601287173967" duration="682000" />
+      <workItem from="1601289015715" duration="624000" />
+      <workItem from="1601388974615" duration="1084000" />
+      <workItem from="1601444983046" duration="1419000" />
+      <workItem from="1601454333856" duration="4093000" />
+      <workItem from="1601530197230" duration="3580000" />
+      <workItem from="1601704346394" duration="3877000" />
+      <workItem from="1601708905534" duration="3737000" />
+      <workItem from="1601722225772" duration="609000" />
+      <workItem from="1601732637999" duration="94000" />
+      <workItem from="1601734314524" duration="7620000" />
+      <workItem from="1601783669657" duration="529000" />
+      <workItem from="1601784226588" duration="5903000" />
+      <workItem from="1601791310797" duration="893000" />
+      <workItem from="1601792436532" duration="8026000" />
+      <workItem from="1601880879960" duration="55000" />
+      <workItem from="1601884029796" duration="10649000" />
+      <workItem from="1601904008912" duration="37000" />
+      <workItem from="1601904101409" duration="4489000" />
+      <workItem from="1601964400864" duration="3406000" />
+      <workItem from="1601969960864" duration="10213000" />
+      <workItem from="1602044728289" duration="328000" />
+      <workItem from="1602045076994" duration="323000" />
+    </task>
+    <task id="LOCAL-00001" summary="switch on ubuntu">
+      <created>1597069628225</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597069628226</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="switch on ubuntu" />
+    <option name="LAST_COMMIT_MESSAGE" value="switch on ubuntu" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="686" y="403" width="800" height="677" key="#Deployment" timestamp="1599983651818">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="686" y="403" width="800" height="677" key="#Deployment/67.27.1853.1053@67.27.1853.1053" timestamp="1599983651818" />
+    <state x="580" y="244" width="832" height="704" key="#SSH_Configurations" timestamp="1599983650252">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="580" y="244" width="832" height="704" key="#SSH_Configurations/67.27.1853.1053@67.27.1853.1053" timestamp="1599983650252" />
+    <state x="588" y="214" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597782638115">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="214" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1597782638115" />
+    <state x="642" y="354" width="692" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598085974877">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="642" y="354" width="692" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1598085974877" />
+    <state x="932" y="181" width="424" height="484" key="FileChooserDialogImpl" timestamp="1601969994722">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="932" y="181" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1601969994722" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1597485522078">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1597485522078" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1597485522078">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1597485522078" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1597485522077">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1597485522077" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1597485522078">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1597485522078" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1597070006742">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1597070006742" />
+    <state x="167" y="125" width="1653" height="855" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1598438975178">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="167" y="125" width="1653" height="855" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1598438975178" />
+    <state x="167" y="125" width="1653" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600239260650">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="167" y="125" width="1653" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1600239260650" />
+    <state x="724" y="329" width="826" height="706" key="find.popup" timestamp="1601972228141">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="724" y="329" width="826" height="706" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1601972228141" />
+    <state x="657" y="253" key="run.anything.popup" timestamp="1600523451752">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1600523451752" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1600959876363">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1600959876363" />
+  </component>
+</project>

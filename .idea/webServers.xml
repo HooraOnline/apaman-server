@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="154b0921-b732-4c31-b765-bf744fc690b1" name="ApamanServer(10.1.1.15)">
+        <fileTransfer rootFolder="/home/mehdi/node/APAMAN" accessType="SFTP" host="monta.ir" port="2240" sshConfigId="85423dc2-c087-408e-8ef6-fab9ad5d27e7" sshConfig="mehdi@monta.ir:2240 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

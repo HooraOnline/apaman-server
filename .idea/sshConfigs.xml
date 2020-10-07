@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="monta.ir" id="85423dc2-c087-408e-8ef6-fab9ad5d27e7" port="2240" nameFormat="DESCRIPTIVE" username="mehdi" />
+    </configs>
+  </component>
+</project>
