@@ -2,12 +2,12 @@
 {
   "APAMAN": {
     "dbConfig": {
-      "user": "ApartmentApp",
-      "password": "12983476",
-      "server": "10.1.1.80",
+      "user": "user1",
+      "password": "Hoora434343*",
+      "server": "185.37.55.135",
       "without_vpn_server_ip": "82.99.244.122",
-      "port": 2575,
-      "database": "Apartment-New",
+      "port": 1453,
+      "database": "uniqu",
       "pool": {
         "max": 10000,
         "min": 1,
